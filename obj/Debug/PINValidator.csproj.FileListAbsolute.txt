@@ -1,0 +1,9 @@
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\bin\Debug\PINValidator.exe.config
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\bin\Debug\PINValidator.exe
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\bin\Debug\PINValidator.pdb
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\obj\Debug\PINValidator.csprojResolveAssemblyReference.cache
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\obj\Debug\PINValidator.Form1.resources
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\obj\Debug\PINValidator.Properties.Resources.resources
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\obj\Debug\PINValidator.csproj.GenerateResource.Cache
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\obj\Debug\PINValidator.exe
+c:\users\uncle\documents\visual studio 2015\Projects\PIN\PINValidator\obj\Debug\PINValidator.pdb
